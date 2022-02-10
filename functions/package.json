@@ -19,7 +19,7 @@
     "bulma": "^0.8.0",
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.20",
     "sass-loader": "^8.0.2"
